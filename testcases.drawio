@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="SaD83XmUjH9mSmV6VrLN" name="Page-1">
+        <mxGraphModel dx="976" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Possible test cases&lt;br&gt;One match&lt;br&gt;More than one match&lt;br&gt;No matches&lt;br&gt;Words with more than one capital letter&lt;br&gt;Words with capital letter at the end&lt;br&gt;Words with capital letter at the start&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="100" width="290" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
